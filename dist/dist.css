@@ -59,6 +59,10 @@
   display: none;
 }
 
+#scrollbar {
+  display: none;
+}
+
 #notes-column {
   flex-basis: 10px !important;
 }
