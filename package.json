@@ -1,12 +1,12 @@
 {
-  "name": "standardnotes-writer",
-  "version": "0.1.1",
+  "name": "Nord Writer",
+  "version": "0.1",
   "main": "dist/dist.css",
   "sn": {
     "main": "dist/dist.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eenpadvinder/standardnotes-writer.git"
+    "url": "git://github.com/lokesh-krishna/standardnotes-writer.git"
   }
 }

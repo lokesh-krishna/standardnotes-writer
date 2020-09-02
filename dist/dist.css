@@ -1,15 +1,15 @@
 :root {
-  --background-1: #000;
-  --background-2: #000;
-  --foreground-1: #cfcfcf;
-  --foreground-2: #cfcfcf;
-  --foreground-3: #cfcfcf;
-  --highlight-color: #2c313a;
-  --neutral-color: #72767e;
-  --danger-color: #cc241d;
-  --success-color: #458588;
-  --warning-color: #d65d0e;
-  --border-color: #000;
+  --background-1: #2e3440;
+  --background-2: #2e3440;
+  --foreground-1: #eceff4;
+  --foreground-2: #eceff4;
+  --foreground-3: #eceff4;
+  --highlight-color: #434c5e;
+  --neutral-color: #4c566a;
+  --danger-color: #bf616a;
+  --success-color: #a3be8c;
+  --warning-color: #d08770;
+  --border-color: #2e3440;
   /* Footer */
   --footer-bar-border-top-color: 0;
   --sn-stylekit-info-color: var(--highlight-color);
@@ -126,9 +126,8 @@
 }
 
 .CodeMirror, .CodeMirror-fullscreen, .gKsMQS, .gKsMQS p, .CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like  {
-  font-family: Charter, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 20px;
-  line-height: 26px;
+  font-family: Inter, sans-serif;
+  font-size: 12px;
 }
 
 .gKsMQS h1:not(.placeholder)::before, 
@@ -155,7 +154,7 @@
 .editor-preview-active a, 
 .editor-preview-active-side a,
 .gKsMQS a {
-  color: #1d69cc !important;
+  color: #88c0d0 !important;
   text-decoration: none;
 }
 
