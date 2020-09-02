@@ -1,0 +1,24 @@
+---
+metatype: json
+---
+
+  {
+    "identifier": "com.github.lokesh-krishna.standardnotes-writer",
+    "name": "Nord Writer",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "description": "A minimalistic writing environment based on the Nord colorscheme",
+    "version": "v1.0",
+    "url": "https://github.com/lokesh-krishna/standardnotes-writer/dist/dist.css",
+    "download_url": "https://github.com/lokesh-krishna/standardnotes-writer/archive/master.zip",
+    "marketing_url": "https://github.com/lokesh-krishna/standardnotes-writer",
+    "latest_url": "https://github.com/lokesh-krishna/standardnotes-writer/ext.json",
+    "thumbnail_url": "https://raw.githubusercontent.com/lokesh-krishna/standardnotes-writer/master/preview.png",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#88C0D0",
+      "foreground_color": "#5E81AC",
+      "border_color": "#88C0D0"
+    },
+    "statusBar": "dark-content"
+  }
