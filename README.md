@@ -18,7 +18,3 @@ https://listed.to/p/WAD0wCp1QS
 ## Preview
 
 ![Standard Notes Writer](preview.png)
-
-Word count:
-
-![Word Count in Standard Notes Writer](wordcount.png)
